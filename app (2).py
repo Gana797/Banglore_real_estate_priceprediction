@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 
 # Load model
-with open('real_estate_model.pkl', 'rb') as f:
+with open('real_estate_model (1).pkl', 'rb') as f:
     model = pickle.load(f)
 
 # Load column metadata
